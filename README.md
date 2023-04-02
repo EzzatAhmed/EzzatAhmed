@@ -1,6 +1,7 @@
-</span></animated-image> Hey! Nice to see you.</h1>
-      Welcome to my page! 
-<br>
+<h1>
+      Hey! Nice to see you.
+</h1>
+<hr><br>
 <p dir="auto">Welcome to my page! <br> I'm Ezzat, Fullstack developer from <b>Egypt</b> <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/83455664/225403988-340d0316-8339-416d-8f0d-6ea469eb7e10.png"><img src="https://user-images.githubusercontent.com/83455664/225403988-340d0316-8339-416d-8f0d-6ea469eb7e10.png" width="13" style="max-width: 100%;"></a><b></b>. </p>
 Things I code with : 
 <br>
